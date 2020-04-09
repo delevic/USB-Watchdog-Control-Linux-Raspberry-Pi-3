@@ -1,0 +1,2 @@
+The timeout value is set in timeout.cfg. Insert only the number of seconds and save it. The timeout value must be set between 10-1270 seconds in 10sec increment (only 10,20,30..1270). If you set 13 seconds you will get error massage. 
+Program must be run as root. To start program as root just put your root password in start.bash file (just replace "your password" and leave "") and run it. Or you can use sudo ./wdc.x and insert your password manually. 
